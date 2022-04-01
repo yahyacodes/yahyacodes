@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  height: 100vh;
+  background-color: rgb(226, 240, 253);
+}
+
+.contianer {
+  position: absolute;
+  background-color: #1a1818;
+  height: 300px;
+  width: 500px;
+  top: 20rem;
+  left: 35rem;
+}
+
+h1 {
+  position: absolute;
+  top: 1rem;
+  left: 6rem;
+  color: #ffff;
+  font-size: 3rem;
+}
+
+p {
+  position: absolute;
+  top: 2.5rem;
+  left: 12rem;
+  color: #ffff;
+  font-size: 10rem;
+}
+
+button {
+  padding: 2px 6px;
+  background: #fdfdfd;
+  outline: none;
+  border: none;
+  font-size: 1.56rem;
+  color: black;
+  cursor: pointer;
+}
+
+button:active {
+  transform: translateY(2px);
+  opacity: 0.8;
+}
+
+.contianer button {
+  place-items: center;
+}
+
+.acrement {
+  position: absolute;
+  top: 13rem;
+  left: 8rem;
+}
+
+.btn_reset {
+  position: absolute;
+  top: 13rem;
+  left: 13rem;
+}
+
+.decrement {
+  position: absolute;
+  top: 13rem;
+  left: 20rem;
+}
