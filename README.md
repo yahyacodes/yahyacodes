@@ -3,7 +3,7 @@
 ### Hi there 👋, Yahya Burhan
 ## I am Fullstack Developer
 
-I'm a dedicated software developer with a relentless passion for creating robust and scalable digital solutions. With a solid foundation in software engineering and a penchant for problem-solving, I thrive in the world of software development.
+Greetings! I'm Yahya Burhan, a dedicated software developer with a relentless passion for creating robust and scalable digital solutions. With a solid foundation in software engineering and a penchant for problem-solving, I thrive in the world of software development.
 
 ## Skills and Experience
 * ⚛️ React
