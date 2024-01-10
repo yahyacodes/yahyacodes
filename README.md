@@ -1,6 +1,6 @@
 ![I am Fullstack Developer](https://media.licdn.com/dms/image/D4D16AQFAGf3ZcbAhsw/profile-displaybackgroundimage-shrink_200_800/0/1680950378554?e=2147483647&v=beta&t=wctK9GgT23LQURdbD2oA2bV3tAhOijSa8ZwKPUAGPcM)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yahya Dahir
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yahya Dahir
 ===================================================================================================================================
 
 Frontend Developer
